@@ -26,9 +26,9 @@
   <a href="mailto:musse.hidru@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=blue" />
   </a>
-  <a href="https://www.linkedin.com/in/musse-hidru/">
+ <!-- <a href="https://www.linkedin.com/in/musse-hidru/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+</a> -->
 <a href="https://electromos26.itch.io/">
     <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
 </a>
