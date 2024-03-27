@@ -18,7 +18,7 @@
 
 💬 Ask me about **The games ive worked on ... or anything [here](https://electromos26.itch.io/)**
 
-⚡ Fun fact **Im a Game Designer, Systems Designer, and a Gameplay Programmer **
+⚡ Fun fact **Im a Game Designer, Systems Designer, and a Gameplay Programmer**
 
  </div>
 
