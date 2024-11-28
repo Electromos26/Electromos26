@@ -12,7 +12,7 @@
 
 <div align="center">
 
-🔭 I’m currently working on **School projects Making games**
+🔭 I’m currently working on **Game Projects**
 
 🌱 I’m currently learning **Unity & Unreal**
 
