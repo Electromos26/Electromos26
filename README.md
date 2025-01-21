@@ -32,30 +32,25 @@
 <a href="https://electromos26.itch.io/">
     <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
 </a>
-</div>
-<br/>
-<hr/>
 <!--
 <div align="center">
   <h2> 🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-
+--!>
 <br/><br/><br/>
-</div>
 
-<hr/>
+
+<hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
 <div align=center>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Electromos26&theme=merko&border_radius=5&card_width=500" alt="GitHub Streak" /></a>
 <!--
 <p> <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Electromos26&count_private=true&show_icons=true&show_icons=true&theme=dracula" /> </p>
 <p> <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Electromos26&layout=compact&langs_count=10&show_icons=true&theme=dracula" /> </p>
--->
-</div>
 
+</div>
 <br/><br/>
 
 
